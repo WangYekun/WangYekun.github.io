@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-14T04:17:14.343Z</updated>
+  <updated>2019-05-15T03:16:22.603Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyTheTwentySixthBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/15/MyTheTwentySixthBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/15/MyTheTwentySixthBlog/</id>
+    <published>2019-05-15T02:58:11.000Z</published>
+    <updated>2019-05-15T03:16:22.603Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Be good at doing things, don’t get too much.</strong></li><li><strong>Go and insist on doing one thing.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">做事要精益求精，不要得过且过。</span><br><span class="line">坚持去做一件事情。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Be good at 
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>MyTheTwentyFifthBlog</title>
@@ -514,31 +541,6 @@
     
     
       <category term="happy" scheme="http://blog.wangyekun.top/tags/happy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySixthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/04/25/MySixthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/04/25/MySixthBlog/</id>
-    <published>2019-04-25T06:28:41.000Z</published>
-    <updated>2019-04-25T06:34:44.618Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Learn-Java-Basic"><a href="#Learn-Java-Basic" class="headerlink" title="Learn Java Basic"></a>Learn Java Basic</h1><p><strong>Today，I want to learn Java Basic ，but I do not Java. ok I hope I can  insist on , ok I believe I can do it</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Learn-Java-Basic&quot;&gt;&lt;a href=&quot;#Learn-Java-Basic&quot; class=&quot;headerlink&quot; title=&quot;Learn Java Basic&quot;&gt;&lt;/a&gt;Learn Java Basic&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Today，
-      
-    
-    </summary>
-    
-      <category term="Learning Java" scheme="http://blog.wangyekun.top/categories/Learning-Java/"/>
-    
-    
-      <category term="学习" scheme="http://blog.wangyekun.top/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
