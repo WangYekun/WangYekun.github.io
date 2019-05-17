@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-16T01:52:02.968Z</updated>
+  <updated>2019-05-17T02:28:51.902Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyTheTwentyEightBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/17/MyTheTwentyEightBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/17/MyTheTwentyEightBlog/</id>
+    <published>2019-05-17T02:16:41.000Z</published>
+    <updated>2019-05-17T02:28:51.902Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li>别急，该来的都会来。</li><li>努力解决每件该解决的事情。</li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Don<span class="string">'t worry, it'</span>s all coming.</span><br><span class="line">Try to solve every problem that should be solved.</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;别急，该来的都会来。&lt;/li&gt;
+&lt;li
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>MyTheTwentySeventhBlog</title>
@@ -516,32 +544,6 @@
     
     
       <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyEighthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/04/27/MyEighthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/04/27/MyEighthBlog/</id>
-    <published>2019-04-27T02:31:29.000Z</published>
-    <updated>2019-04-27T02:42:08.511Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="I-am-back"><a href="#I-am-back" class="headerlink" title="I am back"></a>I am back</h1><ol><li><strong>Don’t worry about something that is not necessary anymore.</strong></li><li><strong>Do what you like</strong></li></ol><h1 id="我回来了"><a href="#我回来了" class="headerlink" title="我回来了"></a>我回来了</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">不要担心不再需要的东西。</span><br><span class="line">你喜欢什么。</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;I-am-back&quot;&gt;&lt;a href=&quot;#I-am-back&quot; class=&quot;headerlink&quot; title=&quot;I am back&quot;&gt;&lt;/a&gt;I am back&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Don’t worry about something 
-      
-    
-    </summary>
-    
-      <category term="back" scheme="http://blog.wangyekun.top/categories/back/"/>
-    
-    
-      <category term="回来了" scheme="http://blog.wangyekun.top/tags/%E5%9B%9E%E6%9D%A5%E4%BA%86/"/>
     
   </entry>
   
