@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-18T03:51:45.207Z</updated>
+  <updated>2019-05-19T01:54:53.609Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyThirtiethBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/19/MyThirtiethBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/19/MyThirtiethBlog/</id>
+    <published>2019-05-19T01:48:00.000Z</published>
+    <updated>2019-05-19T01:54:53.609Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>There is no doubt that the best prize in life is the opportunity to participate in a career worthy of dedication.</strong></li><li><strong>Work hard and keep your heart.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">毫无疑问，生命中最好的奖品就是有机会参与值得奉献的事业。</span><br><span class="line">努力做事并且保持自己的初心。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;There is no
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>MyTheTwentyNinthBlog</title>
@@ -48,7 +75,7 @@
     <link href="http://blog.wangyekun.top/2019/05/17/MyTheTwentyEightBlog/"/>
     <id>http://blog.wangyekun.top/2019/05/17/MyTheTwentyEightBlog/</id>
     <published>2019-05-17T02:16:41.000Z</published>
-    <updated>2019-05-18T03:52:30.252Z</updated>
+    <updated>2019-05-18T03:53:54.253Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Don’t worry, it’s all coming.</strong></li><li><strong>Try to solve every problem that should be solved.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">别急，该来的都会来。</span><br><span class="line">努力解决每件该解决的事情。</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -514,33 +541,6 @@
     </summary>
     
       <category term="别放弃" scheme="http://blog.wangyekun.top/categories/%E5%88%AB%E6%94%BE%E5%BC%83/"/>
-    
-    
-      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyTenthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/04/29/MyTenthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/04/29/MyTenthBlog/</id>
-    <published>2019-04-29T04:52:26.000Z</published>
-    <updated>2019-04-29T06:02:10.608Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Daily"><a href="#Daily" class="headerlink" title="Daily"></a>Daily</h1><ol><li><strong>Always empty your mind.</strong></li><li><strong>Today will be cruel, tomorrow will be more cruel, the day after tomorrow will be better.</strong></li><li><strong>Don’t let yourself feel that you are working hard.</strong></li></ol><h1 id="日常"><a href="#日常" class="headerlink" title="日常"></a>日常</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">永远把自己的心态放空。</span><br><span class="line">今天会很残酷，明天会更残酷，后天会更美好。</span><br><span class="line">不要让自己觉得自己很努力。</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Daily&quot;&gt;&lt;a href=&quot;#Daily&quot; class=&quot;headerlink&quot; title=&quot;Daily&quot;&gt;&lt;/a&gt;Daily&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Always empty your mind.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;s
-      
-    
-    </summary>
-    
-      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
     
     
       <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
