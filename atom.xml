@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-19T01:54:53.609Z</updated>
+  <updated>2019-05-20T01:28:26.144Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MyThirtyFirstBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/20/MyThirtyFirstBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/20/MyThirtyFirstBlog/</id>
+    <published>2019-05-20T01:24:16.000Z</published>
+    <updated>2019-05-20T01:28:26.144Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Everything will be fine in life.</strong></li><li><strong>If you have been good, I will always like you.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">生活一切都会好。</span><br><span class="line">如果你一直好，我会一直喜欢你。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Everything 
+      
+    
+    </summary>
+    
+      <category term="520" scheme="http://blog.wangyekun.top/categories/520/"/>
+    
+    
+      <category term="520" scheme="http://blog.wangyekun.top/tags/520/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MyThirtiethBlog</title>
     <link href="http://blog.wangyekun.top/2019/05/19/MyThirtiethBlog/"/>
     <id>http://blog.wangyekun.top/2019/05/19/MyThirtiethBlog/</id>
     <published>2019-05-19T01:48:00.000Z</published>
-    <updated>2019-05-19T01:54:53.609Z</updated>
+    <updated>2019-05-19T02:08:23.640Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>There is no doubt that the best prize in life is the opportunity to participate in a career worthy of dedication.</strong></li><li><strong>Work hard and keep your heart.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">毫无疑问，生命中最好的奖品就是有机会参与值得奉献的事业。</span><br><span class="line">努力做事并且保持自己的初心。</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -75,7 +102,7 @@
     <link href="http://blog.wangyekun.top/2019/05/17/MyTheTwentyEightBlog/"/>
     <id>http://blog.wangyekun.top/2019/05/17/MyTheTwentyEightBlog/</id>
     <published>2019-05-17T02:16:41.000Z</published>
-    <updated>2019-05-18T03:53:54.253Z</updated>
+    <updated>2019-05-19T02:12:05.466Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Don’t worry, it’s all coming.</strong></li><li><strong>Try to solve every problem that should be solved.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">别急，该来的都会来。</span><br><span class="line">努力解决每件该解决的事情。</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -344,7 +371,7 @@
     <link href="http://blog.wangyekun.top/2019/05/07/MyEighteenthBlog/"/>
     <id>http://blog.wangyekun.top/2019/05/07/MyEighteenthBlog/</id>
     <published>2019-05-07T01:36:51.000Z</published>
-    <updated>2019-05-07T03:25:40.120Z</updated>
+    <updated>2019-05-19T02:13:46.258Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><ol><li><strong>Miracle sometimes occurs, but one has to work terribly hard for them.</strong></li><li><strong>Change is the only constant in life One’s ability to adapt to those changes will determine your success in life.</strong></li></ol><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">奇迹有时会发生，但是必须为他们努力工作。</span><br><span class="line">变化是生命中唯一的变化一个人适应这些变化的能力将决定你的人生成就。</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -515,32 +542,6 @@
     </summary>
     
       <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
-    
-    
-      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyEleventhBlog</title>
-    <link href="http://blog.wangyekun.top/2019/04/30/MyEleventhBlog/"/>
-    <id>http://blog.wangyekun.top/2019/04/30/MyEleventhBlog/</id>
-    <published>2019-04-30T03:33:46.000Z</published>
-    <updated>2019-04-30T03:47:07.604Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Do-not-give-up"><a href="#Do-not-give-up" class="headerlink" title="Do not give up"></a>Do not give up</h1><ol><li><strong>Even miracles take a litter time.</strong></li><li><strong>Always know what you want.</strong></li></ol><h1 id="别放弃"><a href="#别放弃" class="headerlink" title="别放弃"></a>别放弃</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">就算是奇迹也要花点时间才能发生的。</span><br><span class="line">永远知道自己想要什么。</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Do-not-give-up&quot;&gt;&lt;a href=&quot;#Do-not-give-up&quot; class=&quot;headerlink&quot; title=&quot;Do not give up&quot;&gt;&lt;/a&gt;Do not give up&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Even mir
-      
-    
-    </summary>
-    
-      <category term="别放弃" scheme="http://blog.wangyekun.top/categories/%E5%88%AB%E6%94%BE%E5%BC%83/"/>
     
     
       <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
