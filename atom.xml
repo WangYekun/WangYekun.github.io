@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-20T01:28:26.144Z</updated>
+  <updated>2019-05-21T04:53:57.330Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyThirtySecondBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/21/MyThirtySecondBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/21/MyThirtySecondBlog/</id>
+    <published>2019-05-21T04:46:37.000Z</published>
+    <updated>2019-05-21T04:53:57.330Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Persist in persisting and persisting, and work hard and work harder.</strong></li><li><strong>Keep improving a little bit every day.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">坚持坚持再坚持，努力努力再努力。</span><br><span class="line">每天坚持进步一点点。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Persist in 
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>MyThirtyFirstBlog</title>
@@ -511,32 +538,6 @@
       
         &lt;h1 id=&quot;迷茫&quot;&gt;&lt;a href=&quot;#迷茫&quot; class=&quot;headerlink&quot; title=&quot;迷茫&quot;&gt;&lt;/a&gt;迷茫&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;When you focus on problems, you get more problems.When you focus
-      
-    
-    </summary>
-    
-      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
-    
-    
-      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyTwelfthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/05/01/MyTwelfthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/05/01/MyTwelfthBlog/</id>
-    <published>2019-05-01T01:07:16.000Z</published>
-    <updated>2019-05-01T01:10:32.125Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="new-mouth"><a href="#new-mouth" class="headerlink" title="new mouth"></a>new mouth</h1><ol><li><strong>New month, new beginning.</strong></li><li><strong>Real life begins with finishing.</strong></li></ol><h1 id="新的一个月"><a href="#新的一个月" class="headerlink" title="新的一个月"></a>新的一个月</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">新的一个月新的开始。</span><br><span class="line">真正的生活从整理开始。</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;new-mouth&quot;&gt;&lt;a href=&quot;#new-mouth&quot; class=&quot;headerlink&quot; title=&quot;new mouth&quot;&gt;&lt;/a&gt;new mouth&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;New month, new beginning.&lt;/s
       
     
     </summary>
