@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-21T04:53:57.330Z</updated>
+  <updated>2019-05-22T02:15:23.679Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MyThirtyThirdBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/22/MyThirtyThirdBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/22/MyThirtyThirdBlog/</id>
+    <published>2019-05-22T02:05:24.000Z</published>
+    <updated>2019-05-22T02:15:23.679Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>The foolish man seeks happiness in the distance; the wise grows it under his feet.</strong></li><li><strong>Drag your thoughts away from your troubles by the ears, by the heels, or any other way you can manage it.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">愚者去远方寻找幸福，而智者将幸福种在自己的脚下。</span><br><span class="line">把你的想法从烦恼中摆脱出来吧，拽它耳朵也好，踢脚后跟也好，随便你怎么想都行。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The foolish
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MyThirtySecondBlog</title>
     <link href="http://blog.wangyekun.top/2019/05/21/MyThirtySecondBlog/"/>
     <id>http://blog.wangyekun.top/2019/05/21/MyThirtySecondBlog/</id>
     <published>2019-05-21T04:46:37.000Z</published>
-    <updated>2019-05-21T04:53:57.330Z</updated>
+    <updated>2019-05-21T08:54:08.490Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Persist in persisting and persisting, and work hard and work harder.</strong></li><li><strong>Keep improving a little bit every day.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">坚持坚持再坚持，努力努力再努力。</span><br><span class="line">每天坚持进步一点点。</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -512,32 +539,6 @@
       
         &lt;h1 id=&quot;life&quot;&gt;&lt;a href=&quot;#life&quot; class=&quot;headerlink&quot; title=&quot;life&quot;&gt;&lt;/a&gt;life&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Things hava a way of working out when you least 
-      
-    
-    </summary>
-    
-      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
-    
-    
-      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyThirteenthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/05/02/MyThirteenthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/05/02/MyThirteenthBlog/</id>
-    <published>2019-05-02T02:31:16.000Z</published>
-    <updated>2019-05-02T02:39:18.617Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="迷茫"><a href="#迷茫" class="headerlink" title="迷茫"></a>迷茫</h1><ol><li>When you focus on problems, you get more problems.When you focus on possibilities, you hava more opportunites.</li><li>We are made to persist. This is how we find out who we are.</li></ol><h1 id="confused"><a href="#confused" class="headerlink" title="confused"></a>confused</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">当你专注于问题时，你会遇到更多的问题。当你关注可能性时，你就会有更多的机会。</span><br><span class="line">我们生来就是为了坚持，这样我们才能明白自己是谁。</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;迷茫&quot;&gt;&lt;a href=&quot;#迷茫&quot; class=&quot;headerlink&quot; title=&quot;迷茫&quot;&gt;&lt;/a&gt;迷茫&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;When you focus on problems, you get more problems.When you focus
       
     
     </summary>
