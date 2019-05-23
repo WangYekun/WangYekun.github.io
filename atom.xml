@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-22T02:15:23.679Z</updated>
+  <updated>2019-05-23T01:47:49.873Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyThirtyFourBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/23/MyThirtyFourBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/23/MyThirtyFourBlog/</id>
+    <published>2019-05-23T01:43:41.000Z</published>
+    <updated>2019-05-23T01:47:49.873Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Work hard and life  will be better.</strong></li><li><strong>Believe yourself and do more make you more good.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">努力工作，生活会更好。</span><br><span class="line">相信自己，做更多让你变得更好。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Work hard a
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>MyThirtyThirdBlog</title>
@@ -513,32 +540,6 @@
       
         &lt;h1 id=&quot;Early&quot;&gt;&lt;a href=&quot;#Early&quot; class=&quot;headerlink&quot; title=&quot;Early&quot;&gt;&lt;/a&gt;Early&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Go to bed early and get up early.&lt;/strong&gt;&lt;/
-      
-    
-    </summary>
-    
-      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
-    
-    
-      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyFourteenthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/05/03/MyFourteenthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/05/03/MyFourteenthBlog/</id>
-    <published>2019-05-03T01:37:35.000Z</published>
-    <updated>2019-05-03T01:42:34.854Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="life"><a href="#life" class="headerlink" title="life"></a>life</h1><ol><li><strong>Things hava a way of working out when you least expect it. Never give it up.</strong></li><li><strong>Suitable age to do the right thing.</strong></li></ol><h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">事情总是在你最不抱期望的时候得到解决，所以永远不要放弃。</span><br><span class="line">适合的年纪做适合的事情</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;life&quot;&gt;&lt;a href=&quot;#life&quot; class=&quot;headerlink&quot; title=&quot;life&quot;&gt;&lt;/a&gt;life&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Things hava a way of working out when you least 
       
     
     </summary>
