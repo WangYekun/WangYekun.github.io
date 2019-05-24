@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wangyekun.top/"/>
-  <updated>2019-05-23T01:47:49.873Z</updated>
+  <updated>2019-05-24T01:15:38.863Z</updated>
   <id>http://blog.wangyekun.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyThrityFiveBlog</title>
+    <link href="http://blog.wangyekun.top/2019/05/24/MyThrityFiveBlog/"/>
+    <id>http://blog.wangyekun.top/2019/05/24/MyThrityFiveBlog/</id>
+    <published>2019-05-24T01:10:10.000Z</published>
+    <updated>2019-05-24T01:15:38.863Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Quotations"><a href="#Quotations" class="headerlink" title="Quotations"></a>Quotations</h1><blockquote><ol><li><strong>Don’t try to change others, try to change yourself first.</strong></li><li><strong>Don’t think that you don’t need those so-called care.</strong></li></ol></blockquote><h1 id="语录"><a href="#语录" class="headerlink" title="语录"></a>语录</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">不要试图去改变别人，先试着去改变自己。</span><br><span class="line">不要以为亲切就不需要那些所谓的照顾。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Quotations&quot;&gt;&lt;a href=&quot;#Quotations&quot; class=&quot;headerlink&quot; title=&quot;Quotations&quot;&gt;&lt;/a&gt;Quotations&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Don’t try t
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>MyThirtyFourBlog</title>
@@ -514,32 +541,6 @@
       
         &lt;h1 id=&quot;life&quot;&gt;&lt;a href=&quot;#life&quot; class=&quot;headerlink&quot; title=&quot;life&quot;&gt;&lt;/a&gt;life&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Everyone has the ability of everyone.&lt;/strong&gt;&lt;/
-      
-    
-    </summary>
-    
-      <category term="life" scheme="http://blog.wangyekun.top/categories/life/"/>
-    
-    
-      <category term="life" scheme="http://blog.wangyekun.top/tags/life/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyFifteenthBlog</title>
-    <link href="http://blog.wangyekun.top/2019/05/04/MyFifteenthBlog/"/>
-    <id>http://blog.wangyekun.top/2019/05/04/MyFifteenthBlog/</id>
-    <published>2019-05-04T03:24:51.000Z</published>
-    <updated>2019-05-04T03:27:04.035Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Early"><a href="#Early" class="headerlink" title="Early"></a>Early</h1><ol><li><strong>Go to bed early and get up early.</strong></li><li><strong>Everyone has a choice for everyone.</strong></li></ol><h1 id="早起"><a href="#早起" class="headerlink" title="早起"></a>早起</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">早睡早起</span><br><span class="line">每个人都有每个人的选择</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Early&quot;&gt;&lt;a href=&quot;#Early&quot; class=&quot;headerlink&quot; title=&quot;Early&quot;&gt;&lt;/a&gt;Early&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Go to bed early and get up early.&lt;/strong&gt;&lt;/
       
     
     </summary>
